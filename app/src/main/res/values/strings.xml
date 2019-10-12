@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Semovi01</string>
+    <string name="hello">Hola SEMOVI</string>
+    <string name="tvMessageString">Mensaje en ejecución</string>
+</resources>
